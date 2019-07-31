@@ -14,6 +14,5 @@ class AwesomeUnitTest extends TestCase
         $coffeeCups = $awesomeUnit->liters()->toCoffeeCups();
 
         $this->assertEquals(40, $coffeeCups);
-
     }
 }
