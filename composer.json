@@ -1,0 +1,27 @@
+{
+    "name": "rickkuilman/awesome-units",
+    "description": "Converts everyday units to awesome, funny or nerdy units",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rick Kuilman",
+            "email": "info@rickkuilman.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RickKuilman\\AwesomeUnits\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RickKuilman\\AwesomeUnits\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
