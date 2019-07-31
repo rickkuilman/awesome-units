@@ -16,6 +16,6 @@ class AwesomeUnit
      */
     public function liters(): AwesomeLiquidUnit
     {
-        return new AwesomeLiquidUnit($this->unit  * 1000);
+        return new AwesomeLiquidUnit($this->unit * 1000);
     }
 }
