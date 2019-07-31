@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/rickkuilman/awesome-units.svg?branch=master)](https://travis-ci.org/rickkuilman/awesome-units) [![StyleCI](https://github.styleci.io/repos/199922123/shield?branch=master)](https://github.styleci.io/repos/199922123)
+
 # Awesome Units
 
 Awesome Units is a PHP library for converting everyday (boring..) units to awesome, funny or nerdy units.
