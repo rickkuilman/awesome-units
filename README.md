@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/rickkuilman/awesome-units.svg?branch=master)](https://travis-ci.org/rickkuilman/awesome-units) [![StyleCI](https://github.styleci.io/repos/199922123/shield?branch=master)](https://github.styleci.io/repos/199922123)
+[![Build Status](https://travis-ci.org/rickkuilman/awesome-units.svg?branch=master)](https://travis-ci.org/rickkuilman/awesome-units) [![StyleCI](https://github.styleci.io/repos/199922123/shield?branch=master)](https://github.styleci.io/repos/199922123) [![codecov](https://codecov.io/gh/rickkuilman/awesome-units/branch/master/graph/badge.svg)](https://codecov.io/gh/rickkuilman/awesome-units)
+
 
 # Awesome Units
 
